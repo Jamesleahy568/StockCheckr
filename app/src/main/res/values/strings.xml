@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StockCheckr</string>
+    <string name="edit_message">Search...</string>
+    <string name="button_send">Send</string>
+    <string name="edit_zara">ZARA</string>
+    <string name="edit_newlook">NEW LOOK</string>
+    <string name="edit_topman">TOPMAN</string>
+    <string name="edit_title">StockCheckr</string>
+</resources>
